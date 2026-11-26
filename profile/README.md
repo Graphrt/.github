@@ -9,6 +9,7 @@
   <a href="https://graphrt.com/docs">Docs</a> ·
   <a href="https://graphrt.com/plugins">Plugins</a> ·
   <a href="https://graphrt.com/desktop">Desktop app</a> ·
+  <a href="https://www.linkedin.com/company/graphrt">LinkedIn</a> ·
   <a href="mailto:hello@graphrt.com">hello@graphrt.com</a>
 </p>
 
